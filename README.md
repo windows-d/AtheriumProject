@@ -10,8 +10,8 @@ DoS Tool per DoSsare IP scelti dall'utente su porte scelte insieme all'IP
 ## Nmap Scan
 Questo tool scanna automaticamente le porte di un server
 
-Nuove funzionalita' in sviluppo!
-Seguite su Telegram per nuovi aggiornamenti! @AtheriumProject
+*Nuove funzionalita' in sviluppo!
+*Seguite su Telegram per nuovi aggiornamenti! @AtheriumProject
 
 E' stato rimosso il SmS Flood ma verra' riaggiunto tra poco (In fase BETA migliorata)
 
