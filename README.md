@@ -10,8 +10,8 @@ Questo tool ha 2 funzioni molto utili in vari modi: 1. DoS Service 2. Nmap Scan
 ## Nmap Scan
 * Questo tool scanna automaticamente le porte di un server
 
-** Nuove funzionalita' in sviluppo!
-** Seguite su Telegram per nuovi aggiornamenti! @AtheriumProject
+**Nuove funzionalita' in sviluppo!
+**Seguite su Telegram per nuovi aggiornamenti! @AtheriumProject
 
 E' stato rimosso il SmS Flood ma verra' riaggiunto tra poco (In fase BETA migliorata)
 
