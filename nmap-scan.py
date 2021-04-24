@@ -19,5 +19,5 @@ print ("Telegram : @micheleakabstees")
 print (" ")
 
 ip_nmap = input("IP Target : ")
-nmap_comand = "nmap -sS -p0-65535 " + ip_nmap
+nmap_comand = "sudo nmap -sS -p0-65535 " + ip_nmap
 os.system(nmap_comand)
